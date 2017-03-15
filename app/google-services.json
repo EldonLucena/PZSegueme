@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "907143151187",
+    "firebase_url": "https://pzsegueme.firebaseio.com",
+    "project_id": "pzsegueme",
+    "storage_bucket": "pzsegueme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907143151187:android:4f8ee9ffbd5012b5",
+        "android_client_info": {
+          "package_name": "com.segueme.pizza.pzsegueme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907143151187-ctbfvks1s9cgrdh03kgsdtn2i5irn75j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuotbeB2bqGfhQHs2nUXrtGRD0OupddY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
